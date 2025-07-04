@@ -8,4 +8,4 @@ El proposito del Analisis De datos en este proyecto fue Extraer diferetes tipos 
 -Los productos mas vendidos y Menos vendidos  <br>
 -Valor del envio Promedio  <br>
 
-En conjunto de Cada analisis elabore sus debidos graficos para que sea mas accesible Visualmente
+En conjunto de cada analisis Se elaboraron sus debidos graficos para que sea mas accesible Visualmente
